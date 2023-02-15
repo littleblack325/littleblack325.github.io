@@ -1,0 +1,59 @@
+.bkclr{
+    background-color: #212c4f;
+}
+.footertextclr{
+    color: aliceblue;
+    margin: 0;
+    position: absolute;
+    bottom: 0px;
+
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    bottom: 0px;
+  }
+  
+  footer p {
+    text-align: center;
+    margin: 0;
+  }
+  .headerpclr{
+    color: white;
+    font-size: 30px;
+  }
+
+  .navbar{
+    background-color: #0E1525;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    left: 0%;
+    }
+  .headerpclr{
+    position: relative;
+    left: 10%;
+    color: white;
+  }
+  .pap{
+    position: relative;
+    left: 45%;
+    color: white;
+    font-size: 15px;
+    top: 23.5px;
+  }
+  .nav img{
+    position: relative
+    ;
+  }
+
+  .nav ul{
+    position: relative;
+  }
+  
